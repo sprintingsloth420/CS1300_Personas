@@ -1,5 +1,5 @@
 .body{
-  font-family:Verdana, sans-serif;
+  font-family:Tahoma, sans-serif;
 }
 
 .header1 {
@@ -10,10 +10,23 @@
   border-bottom: 3px solid black;
 }
 
+h1{
+    margin-right: 10px;
+}
+
+#normaltitle{
+  font-weight: normal;
+}
+
 .section_header {
   margin-left:20px;
   margin-right:20px;
   color: DodgerBlue;
+}
+
+h2{
+  margin-block-start:1.3em;
+  margin-block-end:0px;
 }
 
 .text{
